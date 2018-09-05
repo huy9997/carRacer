@@ -1,4 +1,4 @@
 # csc413-SecondGame
 Huy Nguyen
 
-Michael Swanson
+2 player tank game made in Java!
